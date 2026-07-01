@@ -2,8 +2,8 @@
 
 Purpose: convert the live webpage into a third-party-timestamped, attribution-licensed,
 citable scholarly object with a defensible **first-published date**. Paste the blocks below
-where indicated on launch day (week of 2026-07-06). Replace `[LAUNCH DATE]` with the exact
-publication date and `[DOI]` with the Zenodo DOI once minted.
+where indicated on launch day (week of 2026-07-06). Replace `2026-07-01` with the exact
+publication date and `10.5281/zenodo.21108694` with the Zenodo DOI once minted.
 
 ---
 
@@ -13,10 +13,10 @@ publication date and `[DOI]` with the Zenodo DOI once minted.
 ## Cite this dataset
 
 > Reitz, C.H. (2026). *The Calibrated Authority Index™* (version 2026-06-22).
-> Zenodo. https://doi.org/[DOI]
+> Zenodo. https://doi.org/10.5281/zenodo.21108694
 > Also available at https://calibrated-authority.chrishuberreitz.com · Licensed CC-BY-4.0.
 
-**First published [LAUNCH DATE]** (week of 2026-07-06). Priority for the dataset, the
+**First published 2026-07-01** (week of 2026-07-06). Priority for the dataset, the
 six-dimension Calibrated Authority instrument, and the verification-economics coding
 frame is established by this date via (a) the Zenodo DOI deposit, (b) an OpenTimestamps
 blockchain anchor of the corpus files, and (c) a Wayback Machine + Perma.cc capture of
@@ -24,7 +24,7 @@ the live site. The Index is original and agent-maintained; reuse under CC-BY-4.0
 attribution to the citation above.
 ```
 
-> Before the DOI exists, ship the URL-only fallback (no `[DOI]` line):
+> Before the DOI exists, ship the URL-only fallback (no `10.5281/zenodo.21108694` line):
 > `Reitz, C.H. (2026). The Calibrated Authority Index™ (version 2026-06-22). https://calibrated-authority.chrishuberreitz.com`
 
 ---
@@ -34,15 +34,15 @@ attribution to the citation above.
 Plain text (replace the existing `CC-BY-4.0 · v2026-06-22 · Chris Huber Reitz` span):
 
 ```
-The Calibrated Authority Index™ · First published [LAUNCH DATE] · CC-BY-4.0 · DOI: [DOI] · © 2026 Chris Huber Reitz
+The Calibrated Authority Index™ · First published 2026-07-01 · CC-BY-4.0 · DOI: 10.5281/zenodo.21108694 · © 2026 Chris Huber Reitz
 ```
 
 HTML snippet for the `.foot` block:
 
 ```html
-<span>The Calibrated Authority Index&trade; · First published [LAUNCH DATE] ·
+<span>The Calibrated Authority Index&trade; · First published 2026-07-01 ·
 <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a> ·
-DOI: <a href="https://doi.org/[DOI]">[DOI]</a> · © 2026 Chris Huber Reitz</span>
+DOI: <a href="https://doi.org/10.5281/zenodo.21108694">10.5281/zenodo.21108694</a> · © 2026 Chris Huber Reitz</span>
 ```
 
 ---

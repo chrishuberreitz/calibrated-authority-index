@@ -52,7 +52,9 @@ Use the **"Cite this repository"** button (powered by `CITATION.cff`), or:
 
 > Reitz, C.H. (2026). *The Calibrated Authority Index* (version 2026-06-22). https://calibrated-authority.chrishuberreitz.com
 
-A versioned DOI is minted per GitHub release via Zenodo — cite that when present.
+**Cite as:** Reitz, C. H. (2026). *The Calibrated Authority Index™* (v2026-06-22) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.21108694
+
+`10.5281/zenodo.21108694` is the **concept DOI** — it always resolves to the latest version. Each GitHub release also mints a versioned DOI pinning that exact snapshot.
 
 ## Contribute / correct a score
 Scores are auditable, so they're contestable. If your institution is mis-coded
