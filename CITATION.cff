@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+title: The Calibrated Authority Index
+message: "If you use this dataset, please cite it as below."
+type: dataset
+authors:
+  - family-names: Reitz
+    given-names: Chris Huber
+    affiliation: Attainable AI
+    # orcid: "https://orcid.org/0000-0000-0000-0000"  # [CHRIS] uncomment + fill once ORCID is registered
+abstract: >-
+  A living corpus coding how knowledge institutions construct trust in generative
+  AI. Each institution's public AI policy is scored on six dimensions into a
+  composite Calibrated Authority (CA) score 0-12, anchored to a verbatim quote
+  and source. N=51 institutions; mean CA 9.8/12.
+url: "https://calibrated-authority.chrishuberreitz.com"
+repository-code: "https://github.com/chrishuberreitz/calibrated-authority-index"
+license: CC-BY-4.0
+version: "2026-06-22"
+date-released: "2026-06-22"
+keywords:
+  - Calibrated Authority
+  - Anticipatory Reciprocity
+  - AI trust
+  - AI governance
+  - generative AI policy
+  - verification economics
+  - trust formation
+  - AI authorship
+  - Organizational Intelligence Design
+  - AEO
