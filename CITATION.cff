@@ -6,7 +6,7 @@ authors:
   - family-names: Reitz
     given-names: Chris Huber
     affiliation: Attainable AI
-    # orcid: "https://orcid.org/0000-0000-0000-0000"  # [CHRIS] uncomment + fill once ORCID is registered
+    orcid: "https://orcid.org/0009-0000-3190-4158"
 abstract: >-
   A living corpus coding how knowledge institutions construct trust in generative
   AI. Each institution's public AI policy is scored on six dimensions into a

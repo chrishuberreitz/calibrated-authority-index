@@ -1,0 +1,50 @@
+{
+  "title": "The Calibrated Authority Index™",
+  "upload_type": "dataset",
+  "description": "<p>The Calibrated Authority Index™ is a <strong>novel, original dataset</strong>: no prior corpus codes the public generative-AI policies of knowledge institutions as revealed verification-economics judgments. Each institution's public AI policy is coded on six dimensions (D1–D6) into a composite Calibrated Authority (CA) score 0–12, plus posture, verification-boundary fit, trust-logic, and twilight markers. Each record carries the institution's <strong>verbatim policy quote and source URL</strong>; every score traces to a public document.</p><p>It is the observational, observed-in-the-wild evidence for the trust-formation-divergence thesis: trust forms by divergent mechanisms driven by verification economics — institutions permit AI where its output can be cheaply verified, and reserve for a human the work that cannot be. N=51 institutions; mean Calibrated Authority 9.8/12.</p><p><strong>Agent-built and agent-maintained.</strong> The Index is produced and kept current by an automated coding pipeline that continuously re-reads and re-scores each institution's policy; new and revised records are released at a human-reviewed pace. This deposit is one human-paced public snapshot of a living corpus.</p><p><strong>Versioned DOIs.</strong> This deposit is wired to a GitHub repository via Zenodo's GitHub integration: each tagged GitHub release mints a new versioned DOI under a single concept DOI, so the citable record tracks the living index over time. Released CC-BY-4.0.</p>",
+  "creators": [
+    {
+      "name": "Reitz, Chris Huber",
+      "affiliation": "Attainable AI",
+      "orcid": "0009-0000-3190-4158"
+    }
+  ],
+  "keywords": [
+    "Calibrated Authority",
+    "Anticipatory Reciprocity",
+    "AI trust",
+    "AI governance",
+    "generative AI policy",
+    "verification economics",
+    "trust formation",
+    "AI authorship",
+    "Organizational Intelligence Design",
+    "AEO"
+  ],
+  "license": "CC-BY-4.0",
+  "version": "2026-06-22",
+  "language": "eng",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "relation": "isDocumentedBy",
+      "identifier": "https://calibrated-authority.chrishuberreitz.com/methodology",
+      "scheme": "url"
+    },
+    {
+      "relation": "isVariantFormOf",
+      "identifier": "https://calibrated-authority.chrishuberreitz.com",
+      "scheme": "url"
+    },
+    {
+      "relation": "isCompiledBy",
+      "identifier": "https://github.com/chrishuberreitz/calibrated-authority-index",
+      "scheme": "url"
+    },
+    {
+      "relation": "isDerivedFrom",
+      "identifier": "https://chrishuberreitz.com/frameworks/calibrated-authority",
+      "scheme": "url"
+    }
+  ]
+}
