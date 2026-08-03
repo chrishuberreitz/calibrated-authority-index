@@ -1,7 +1,7 @@
 {
   "$schema": "https://calibrated-authority.chrishuberreitz.com/schema.json",
   "dataset": "The Calibrated Authority Index",
-  "version": "2026-06-22",
+  "version": "2026-07-31",
   "creator": "Chris Huber Reitz",
   "license": "CC-BY-4.0",
   "id": "pnas",
@@ -22,6 +22,8 @@
   "c3": "Evidential",
   "twilight": true,
   "coded_date": "2026-06-22",
+  "last_changed": null,
+  "revision": 0,
   "quote": "The software cannot be listed as an author because it does not meet the criteria for authorship and cannot share responsibility for the paper or be held accountable for the integrity of the data reported.",
   "quote_label": "Editorial and journal policies",
   "provenance": {
@@ -69,7 +71,7 @@
       "@type": "Dataset",
       "name": "The Calibrated Authority Index",
       "url": "https://calibrated-authority.chrishuberreitz.com",
-      "version": "2026-06-22",
+      "version": "2026-07-31",
       "license": "https://creativecommons.org/licenses/by/4.0/"
     },
     "license": "https://creativecommons.org/licenses/by/4.0/"

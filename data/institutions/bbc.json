@@ -1,7 +1,7 @@
 {
   "$schema": "https://calibrated-authority.chrishuberreitz.com/schema.json",
   "dataset": "The Calibrated Authority Index",
-  "version": "2026-06-22",
+  "version": "2026-07-31",
   "creator": "Chris Huber Reitz",
   "license": "CC-BY-4.0",
   "id": "bbc",
@@ -21,12 +21,14 @@
   "c2_fit": "fits",
   "c3": "Both-split",
   "twilight": true,
-  "coded_date": "2026-06-22",
-  "quote": "BBC use of AI must never undermine the trust of audiences.",
-  "quote_label": "Editorial guidance on AI (2025-06-23)",
+  "coded_date": "2026-07-26",
+  "last_changed": "2026-07-26",
+  "revision": 2,
+  "quote": "Any use of AI by the BBC in the creation, presentation or distribution of content must include active human editorial oversight and approval, appropriate to the nature of its use and consistent with the Editorial Guidelines.",
+  "quote_label": "Guidance: The use of Artificial Intelligence",
   "provenance": {
     "url": "https://www.bbc.co.uk/editorialguidelines/guidance/use-of-artificial-intelligence",
-    "verify_status": "ok"
+    "verify_status": "primary-live-2026-07-26"
   },
   "jsonld": {
     "@context": "https://schema.org",
@@ -34,14 +36,14 @@
     "@id": "https://calibrated-authority.chrishuberreitz.com/institutions/bbc",
     "url": "https://calibrated-authority.chrishuberreitz.com/institutions/bbc",
     "name": "Calibrated Authority rating — BBC",
-    "datePublished": "2026-06-22",
+    "datePublished": "2026-07-26",
     "itemReviewed": {
       "@type": "CreativeWork",
       "name": "BBC — public generative-AI policy",
       "url": "https://www.bbc.co.uk/editorialguidelines/guidance/use-of-artificial-intelligence",
-      "text": "BBC use of AI must never undermine the trust of audiences.",
-      "abstract": "BBC use of AI must never undermine the trust of audiences.",
-      "alternateName": "Editorial guidance on AI (2025-06-23)"
+      "text": "Any use of AI by the BBC in the creation, presentation or distribution of content must include active human editorial oversight and approval, appropriate to the nature of its use and consistent with the Editorial Guidelines.",
+      "abstract": "Any use of AI by the BBC in the creation, presentation or distribution of content must include active human editorial oversight and approval, appropriate to the nature of its use and consistent with the Editorial Guidelines.",
+      "alternateName": "Guidance: The use of Artificial Intelligence"
     },
     "reviewRating": {
       "@type": "Rating",
@@ -69,7 +71,7 @@
       "@type": "Dataset",
       "name": "The Calibrated Authority Index",
       "url": "https://calibrated-authority.chrishuberreitz.com",
-      "version": "2026-06-22",
+      "version": "2026-07-31",
       "license": "https://creativecommons.org/licenses/by/4.0/"
     },
     "license": "https://creativecommons.org/licenses/by/4.0/"

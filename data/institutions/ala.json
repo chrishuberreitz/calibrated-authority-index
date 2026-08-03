@@ -4,10 +4,10 @@
   "version": "2026-07-31",
   "creator": "Chris Huber Reitz",
   "license": "CC-BY-4.0",
-  "id": "elsevier",
-  "name": "Elsevier",
-  "segment": "publisher",
-  "url": "https://www.elsevier.com/about/policies-and-standards/the-use-of-generative-ai-and-ai-assisted-technologies-in-writing-for-elsevier",
+  "id": "ala",
+  "name": "American Library Association",
+  "segment": "library",
+  "url": "https://www.ala.org/sites/default/files/2026-06/ALA%20CD%2044.2%20AI%20Guidance%20Document%20-%20Final.pdf",
   "scores": {
     "D1": 2,
     "D2": 2,
@@ -24,26 +24,26 @@
   "coded_date": "2026-08-02",
   "last_changed": "2026-08-02",
   "revision": 1,
-  "quote": "Authorship implies responsibilities and tasks that can only be attributed to and performed by humans.",
-  "quote_label": "Elsevier — The use of generative AI and AI-assisted technologies in writing for Elsevier",
+  "quote": "AI will complement rather than replace human intelligence, reasoning, deliberation, and critical thinking; humans remain accountable for AI-automated decisions and their consequences.",
+  "quote_label": "ALA, Guidance on the Use of Artificial Intelligence in Libraries (CD#44.2, adopted 2026 Annual Conference), Public Good — Preserving Human Decision-Making",
   "provenance": {
-    "url": "https://www.elsevier.com/about/policies-and-standards/the-use-of-generative-ai-and-ai-assisted-technologies-in-writing-for-elsevier",
+    "url": "https://www.ala.org/sites/default/files/2026-06/ALA%20CD%2044.2%20AI%20Guidance%20Document%20-%20Final.pdf",
     "verify_status": "ok"
   },
   "jsonld": {
     "@context": "https://schema.org",
     "@type": "Review",
-    "@id": "https://calibrated-authority.chrishuberreitz.com/institutions/elsevier",
-    "url": "https://calibrated-authority.chrishuberreitz.com/institutions/elsevier",
-    "name": "Calibrated Authority rating — Elsevier",
+    "@id": "https://calibrated-authority.chrishuberreitz.com/institutions/ala",
+    "url": "https://calibrated-authority.chrishuberreitz.com/institutions/ala",
+    "name": "Calibrated Authority rating — American Library Association",
     "datePublished": "2026-08-02",
     "itemReviewed": {
       "@type": "CreativeWork",
-      "name": "Elsevier — public generative-AI policy",
-      "url": "https://www.elsevier.com/about/policies-and-standards/the-use-of-generative-ai-and-ai-assisted-technologies-in-writing-for-elsevier",
-      "text": "Authorship implies responsibilities and tasks that can only be attributed to and performed by humans.",
-      "abstract": "Authorship implies responsibilities and tasks that can only be attributed to and performed by humans.",
-      "alternateName": "Elsevier — The use of generative AI and AI-assisted technologies in writing for Elsevier"
+      "name": "American Library Association — public generative-AI policy",
+      "url": "https://www.ala.org/sites/default/files/2026-06/ALA%20CD%2044.2%20AI%20Guidance%20Document%20-%20Final.pdf",
+      "text": "AI will complement rather than replace human intelligence, reasoning, deliberation, and critical thinking; humans remain accountable for AI-automated decisions and their consequences.",
+      "abstract": "AI will complement rather than replace human intelligence, reasoning, deliberation, and critical thinking; humans remain accountable for AI-automated decisions and their consequences.",
+      "alternateName": "ALA, Guidance on the Use of Artificial Intelligence in Libraries (CD#44.2, adopted 2026 Annual Conference), Public Good — Preserving Human Decision-Making"
     },
     "reviewRating": {
       "@type": "Rating",

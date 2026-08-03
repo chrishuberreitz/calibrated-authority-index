@@ -1,7 +1,7 @@
 {
   "$schema": "https://calibrated-authority.chrishuberreitz.com/schema.json",
   "dataset": "The Calibrated Authority Index",
-  "version": "2026-06-22",
+  "version": "2026-07-31",
   "creator": "Chris Huber Reitz",
   "license": "CC-BY-4.0",
   "id": "royal-society",
@@ -22,6 +22,8 @@
   "c3": "Both-split",
   "twilight": true,
   "coded_date": "2026-06-22",
+  "last_changed": null,
+  "revision": 0,
   "quote": "Such systems must not replace key researcher tasks such as producing scientific insights, analysing and interpreting data.",
   "quote_label": "Authorship, competing interests and AI",
   "provenance": {
@@ -69,7 +71,7 @@
       "@type": "Dataset",
       "name": "The Calibrated Authority Index",
       "url": "https://calibrated-authority.chrishuberreitz.com",
-      "version": "2026-06-22",
+      "version": "2026-07-31",
       "license": "https://creativecommons.org/licenses/by/4.0/"
     },
     "license": "https://creativecommons.org/licenses/by/4.0/"

@@ -1,7 +1,7 @@
 {
   "$schema": "https://calibrated-authority.chrishuberreitz.com/schema.json",
   "dataset": "The Calibrated Authority Index",
-  "version": "2026-06-22",
+  "version": "2026-07-31",
   "creator": "Chris Huber Reitz",
   "license": "CC-BY-4.0",
   "id": "wame",
@@ -22,6 +22,8 @@
   "c3": "Both-split",
   "twilight": true,
   "coded_date": "2026-06-22",
+  "last_changed": null,
+  "revision": 0,
   "quote": "In the interests of enabling scientific scrutiny, including replication and identifying falsification, the full prompt used to generate the research results, the time and date of query, and the AI tool used and its version, should be provided.",
   "quote_label": "Recommendations on chatbots & generative AI",
   "provenance": {
@@ -69,7 +71,7 @@
       "@type": "Dataset",
       "name": "The Calibrated Authority Index",
       "url": "https://calibrated-authority.chrishuberreitz.com",
-      "version": "2026-06-22",
+      "version": "2026-07-31",
       "license": "https://creativecommons.org/licenses/by/4.0/"
     },
     "license": "https://creativecommons.org/licenses/by/4.0/"

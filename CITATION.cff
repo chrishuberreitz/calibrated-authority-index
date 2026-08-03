@@ -12,12 +12,12 @@ abstract: >-
   A living corpus coding how knowledge institutions construct trust in generative
   AI. Each institution's public AI policy is scored on six dimensions into a
   composite Calibrated Authority (CA) score 0-12, anchored to a verbatim quote
-  and source. N=51 institutions; mean CA 9.8/12.
+  and source. N=59 institutions; mean CA 9.7/12.
 url: "https://calibrated-authority.chrishuberreitz.com"
 repository-code: "https://github.com/chrishuberreitz/calibrated-authority-index"
 license: CC-BY-4.0
-version: "2026-06-22"
-date-released: "2026-06-22"
+version: "2026-07-31"
+date-released: "2026-07-31"
 keywords:
   - Calibrated Authority
   - Anticipatory Reciprocity

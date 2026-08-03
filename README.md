@@ -1,9 +1,9 @@
 # The Calibrated Authority Index™
 
-**51 knowledge institutions, coded on how they construct trust in AI.**
-Version 2026-06-22 · mean Calibrated Authority 9.8/12 · CC-BY-4.0
+**59 knowledge institutions, coded on how they construct trust in AI.**
+Version 2026-07-31 · mean Calibrated Authority 9.7/12 · CC-BY-4.0
 
-Nature, JAMA, the BBC, Oxford, UNESCO and 46 more all wrote public rules for
+Nature, JAMA, the BBC, Oxford, UNESCO and 54 more all wrote public rules for
 generative AI. Read together, they reveal one pattern none of them named: **they
 let AI do the work you can cheaply check, and reserve for a human the work you
 can't.** This repo is that pattern as open data — every institution's policy
@@ -50,9 +50,9 @@ Or just `git clone` this repo and read `data/`.
 ## Cite it
 Use the **"Cite this repository"** button (powered by `CITATION.cff`), or:
 
-> Reitz, C.H. (2026). *The Calibrated Authority Index* (version 2026-06-22). https://calibrated-authority.chrishuberreitz.com
+> Reitz, C.H. (2026). *The Calibrated Authority Index* (version 2026-07-31). https://calibrated-authority.chrishuberreitz.com
 
-**Cite as:** Reitz, C. H. (2026). *The Calibrated Authority Index™* (v2026-06-22) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.21108694
+**Cite as:** Reitz, C. H. (2026). *The Calibrated Authority Index™* (v2026-07-31) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.21108694
 
 `10.5281/zenodo.21108694` is the **concept DOI** — it always resolves to the latest version. Each GitHub release also mints a versioned DOI pinning that exact snapshot.
 

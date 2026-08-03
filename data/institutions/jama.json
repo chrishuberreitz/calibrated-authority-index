@@ -1,7 +1,7 @@
 {
   "$schema": "https://calibrated-authority.chrishuberreitz.com/schema.json",
   "dataset": "The Calibrated Authority Index",
-  "version": "2026-06-22",
+  "version": "2026-07-31",
   "creator": "Chris Huber Reitz",
   "license": "CC-BY-4.0",
   "id": "jama",
@@ -21,7 +21,9 @@
   "c2_fit": "fits",
   "c3": "Both-split",
   "twilight": true,
-  "coded_date": "2026-06-22",
+  "coded_date": "2026-06-28",
+  "last_changed": null,
+  "revision": 0,
   "quote": "Attribution of authorship carries with it accountability for the work, and AI tools cannot take such responsibility.",
   "quote_label": "Instructions for authors",
   "provenance": {
@@ -34,7 +36,7 @@
     "@id": "https://calibrated-authority.chrishuberreitz.com/institutions/jama",
     "url": "https://calibrated-authority.chrishuberreitz.com/institutions/jama",
     "name": "Calibrated Authority rating — JAMA Network",
-    "datePublished": "2026-06-22",
+    "datePublished": "2026-06-28",
     "itemReviewed": {
       "@type": "CreativeWork",
       "name": "JAMA Network — public generative-AI policy",
@@ -69,7 +71,7 @@
       "@type": "Dataset",
       "name": "The Calibrated Authority Index",
       "url": "https://calibrated-authority.chrishuberreitz.com",
-      "version": "2026-06-22",
+      "version": "2026-07-31",
       "license": "https://creativecommons.org/licenses/by/4.0/"
     },
     "license": "https://creativecommons.org/licenses/by/4.0/"
