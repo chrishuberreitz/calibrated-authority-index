@@ -71,3 +71,24 @@ until a registration actually issues — using ® pre-registration is itself a v
 gate: if the Index is still "a paper + a site" in 12 months, ™ is sufficient; if it has become
 a named recurring product with traffic, file.
 ```
+
+---
+
+## Where the blockchain anchor actually lives
+
+Leg (b) of the priority claim above — the OpenTimestamps anchor — lives in `proofs/`,
+one frozen directory per dataset version, each holding the exact published bytes next
+to the proof that attests them. See `proofs/README.md`.
+
+Two corrections worth recording, both made 2026-08-02:
+
+1. The original proofs sat beside the **live** files (`data/data.csv.ots`). The corpus
+   refresh from N=51 to N=59 changed those bytes, so `ots verify` began reporting
+   `File does not match original!` — a failed verification reads as tampering, not as
+   version skew. Proofs are now frozen with their bytes and the live files carry none.
+2. The 2026-07-01 proofs were never upgraded, so for a month the anchor depended on
+   four third-party calendar servers remaining online. They now carry Bitcoin block
+   headers 956255 / 956294 / 956297 and verify without contacting anyone.
+
+The priority date is unchanged. `ca-index-timestamp.sh stamp` cuts a new version's
+proof; run it before `gh release create` so the archived deposit contains one that verifies.
